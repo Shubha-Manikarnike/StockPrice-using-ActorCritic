@@ -17,8 +17,8 @@ The Q Value is used by the Actor to Improve probabilities of better actions
 
 Below are the Update equations of the Actor and the Critic. For the Actor, the gradient is computed as Log Policy ( Log probability of the Actions ) times the Reward.
 The reward is replaced with the Q-Value which is Computed by the Critic.
-[Update Equations](https://github.com/Shubha-Manikarnike/StockPrice-using-ActorCritic/blob/main/Images/Q-ActorCritic.PNG)
+![Update Equations](https://github.com/Shubha-Manikarnike/StockPrice-using-ActorCritic/blob/main/Images/Q-ActorCritic.PNG)
 
 Below is a snippet of the Q-Actor Critic
 
-[Algorithm](https://github.com/Shubha-Manikarnike/StockPrice-using-ActorCritic/blob/main/Images/Q-ActoCritic%20Algorithm.PNG)
+![Algorithm](https://github.com/Shubha-Manikarnike/StockPrice-using-ActorCritic/blob/main/Images/Q-ActoCritic%20Algorithm.PNG)
